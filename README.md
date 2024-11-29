@@ -5,6 +5,11 @@ The dashboard consists of  bar charts, pie charts, and line graphs to visually r
 <h2>Dashboard Preview:</h2>
 <img src="https://github.com/user-attachments/assets/bf3fff16-eadf-4711-9230-67c3f9a8f994">
 
+<h2>Using Pivot Table</h2>
+<img src="https://github.com/user-attachments/assets/ad16cfc1-abfc-43a4-aba2-c16768149de5">
+<img src="https://github.com/user-attachments/assets/83f1bb76-0c91-4c33-bf4e-3b068e7ebb25">
+
+
 <h3>Project Overview:</h3>
 <p>1. Objective: To transform raw orders data into actionable insights.</p>
 
